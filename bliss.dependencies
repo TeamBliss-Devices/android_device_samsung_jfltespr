@@ -12,9 +12,9 @@
     "revision": "cm-12.1"  
   },
   {
-    "remote": "cm",
+    "remote": "TeamBliss-Devices",
     "repository": "android_kernel_samsung_jf",
     "target_path": "kernel/samsung/jf",
-    "revision": "cm-12.1"
+    "revision": "lp5.1"
   }
 ]
