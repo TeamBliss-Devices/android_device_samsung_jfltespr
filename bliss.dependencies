@@ -25,8 +25,8 @@
   },
   {
     "remote": "TeamBliss-Devices",
-    "repository": "android_kernel_samsung_jf",
-    "target_path": "kernel/samsung/jf",
+    "repository": "android_kernel_samsung_jflte",
+    "target_path": "kernel/samsung/jflte",
     "revision": "lp5.1"
   }
 ]
